@@ -6,7 +6,7 @@ body {
 
 section {
     margin: 40px auto;
-    width: 600px;
+    width: 800px;
 }
 
 h1 {
@@ -20,4 +20,10 @@ h1 {
 
 .landing section {
     background: white;
+}
+
+img {
+    border: none;
+    border-radius: 20px;
+    box-shadow: 10px red;
 }
