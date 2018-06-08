@@ -41,6 +41,6 @@ bicycle:
 face:
 bottle:
 desk:
-chair:
-bag:
-phone:
+chair:tool
+bag:kott
+phone:telefon
